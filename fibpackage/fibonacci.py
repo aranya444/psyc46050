@@ -3,7 +3,7 @@ fibonacci
 
 functions to compute fibonacci numbers
 
-Complete problems 2 and 3 in this file.
+
 """
 import time
 import numpy as np
